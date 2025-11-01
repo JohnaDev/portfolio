@@ -39,19 +39,6 @@ Little Ones is a baby sleep and parenting app providing expert routines, sleep t
 
 ---
 
-### 🦅 [Eagle Quote](https://play.google.com/store/apps/details?id=blackfintechnology.eaglequote)
-**Role:** Senior Android Developer | **Technologies:** Java, xml, Kotlin, MVVM, Retrofit  
-
-**Overview:**  
-A quoting and CRM tool for insurance agents to generate and manage client quotes efficiently.
-
-**Key Contributions:**  
-- Developed **MVVM-based** modules for scalable architecture.  
-- Integrated **RESTful APIs** for quote generation and management.  
-- Improved testing and deployment workflows with **CI/CD pipelines**.
-
----
-
 ### 🏥 [Perfect Home Health](https://play.google.com/store/apps/details?id=com.noteefied.perfect)
 **Role:** Android Developer | **Technologies:** Java, xml, Retrofit, SQLite, JSON  
 
@@ -77,6 +64,19 @@ A healthcare management app used by home health professionals for scheduling, do
 - Implemented real-time session updates and interactive workout visuals.  
 - Ensured smooth playback and synchronization across multiple screen configurations.  
 - Optimized performance for continuous high-resolution video and animation playback.  
+
+---
+
+### 🦅 [Eagle Quote](https://play.google.com/store/apps/details?id=blackfintechnology.eaglequote)
+**Role:** Senior Android Developer | **Technologies:** Java, xml, Kotlin, MVVM, Retrofit  
+
+**Overview:**  
+A quoting and CRM tool for insurance agents to generate and manage client quotes efficiently.
+
+**Key Contributions:**  
+- Developed **MVVM-based** modules for scalable architecture.  
+- Integrated **RESTful APIs** for quote generation and management.  
+- Improved testing and deployment workflows with **CI/CD pipelines**.
 
 ---
 
