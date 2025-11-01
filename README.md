@@ -26,16 +26,37 @@ Passionate about crafting high-quality, maintainable, and user-centered apps —
 ## 📱 Featured Projects
 
 ### 🍼 [Little Ones](https://play.google.com/store/apps/details?id=nz.co.littleones.prod)
-**Role:** Senior Android Developer | **Technologies:** Kotlin, Jetpack Compose, Firebase  
+**Role:** Senior Android Developer | **Technologies:** Kotlin, Java, xml, Jetpack Compose, Firebase, Retrofit  
 
 **Overview:**  
-Little Ones is a baby sleep and parenting app providing expert routines, sleep tracking, and personalized guidance for parents.
+**Little Ones** is a baby sleep and parenting app that provides expert routines, sleep tracking, and personalized advice.  
+It also features two key social components:  
+- A **community feed** where parents and consultants can post updates, share experiences, and comment.  
+- A **private chat system** for one-on-one communication between parents and certified consultants.  
 
 **Key Contributions:**  
-- Migrated the app to **Jetpack Compose** and modular architecture.  
-- Implemented **Firebase Analytics** and **Cloud Messaging** for personalized notifications.  
-- Enhanced **offline capabilities** and performance optimization.  
-- Collaborated with UX teams to align with **Material Design 3** standards.
+- Rebuilt major app components using **Jetpack Compose** and a modular architecture.  
+- Developed a **social feed** supporting posts, comments, and media uploads with **real-time updates**.  
+- Implemented a **private chat and messaging system** using **Firebase Firestore**, **Realtime Database**, and **Firebase Authentication**.  
+- Integrated **Cloud Messaging** for notifications and engagement.  
+- Collaborated with product and UX teams to ensure a seamless user experience that aligns with **Material Design 3**.  
+
+---
+
+### 💪 F45 Training
+**Role:** Android Developer | **Technologies:** Kotlin, Android TV SDK, Bluetooth, Restful api  
+
+**Overview:**  
+**F45 Training** is a global fitness brand offering functional training programs.  
+This Android TV application acts as a **virtual workout coach**, displaying exercise sessions and real-time performance metrics inside F45 studios.  
+> 🛈 **Note:** This is an **enterprise-only application** developed for F45 studios and internal use — it is **not available on the Google Play Store**.
+
+**Key Contributions:**  
+- Built **Android TV apps** that display real-time workout sessions on large studio screens.  
+- Integrated **Bluetooth heart rate monitors** for live tracking and performance visualization.  
+- Implemented **real-time workout synchronization** and interactive session displays.  
+- Optimized playback and rendering for **high-resolution video** and continuous operation.  
+- Ensured reliable multi-screen synchronization across studio environments.  
 
 ---
 
@@ -47,23 +68,8 @@ A healthcare management app used by home health professionals for scheduling, do
 
 **Key Contributions:**  
 - Built modules for **patient data entry, scheduling, and synchronization**.  
-- Implemented **offline storage** and **secure RESTful API** integration.  
+- Implemented **secure RESTful API** integration.  
 - Ensured **HIPAA compliance** and reliability for field operations.  
-
----
-
-### 💪 [F45 Training](https://f45training.com/)
-**Role:** Android Developer | **Technologies:** Java, Android TV SDK, Bluetooth, xml, RestFul api  
-
-**Overview:**  
-**F45 Training** is a global fitness brand offering functional training programs. This Android TV application serves as a **virtual workout coach**, displaying exercise sessions and real-time performance metrics inside F45 studios.
-
-**Key Contributions:**  
-- Designed and developed **Android TV apps** that deliver workout sessions on large displays.  
-- Integrated **Bluetooth heart rate monitor** connectivity for live performance tracking.  
-- Implemented real-time session updates and interactive workout visuals.  
-- Ensured smooth playback and synchronization across multiple screen configurations.  
-- Optimized performance for continuous high-resolution video and animation playback.  
 
 ---
 
@@ -110,14 +116,14 @@ A tilt-based physics mobile game featuring fun mechanics and smooth motion contr
 **Senior Android Developer | Dev Partners** (2018 – Present)  
 - Modernized apps with **Jetpack Compose** and improved CI/CD efficiency.  
 - Mentored junior developers on architecture and testing best practices.  
-- Built **Android TV** apps for F45 Training with Bluetooth device integration.  
 
 **Android Developer | Bywave** (2015 – 2018)  
 - Integrated Bluetooth heart rate monitor connectivity and REST APIs.  
 - Implemented Material Design UIs and SQLite data handling.  
+- Built **Android TV** apps for F45 Training with Bluetooth device integration.  
 
 **Android Developer | Note-e-fied Inc.** (2014 – 2015)  
-- Built healthcare-focused Android apps with offline synchronization.  
+- Built healthcare-focused Android apps that follows **HIPAA compliance**.  
 
 **Android Developer | Data Soft Logic** (2014)  
 - Developed secure, enterprise-grade Android apps with API integration.  
