@@ -43,7 +43,7 @@ It also features two key social components:
 
 ---
 
-### 💪 F45 Training
+### 💪 [F45 Training](https://f45training.com/)
 **Role:** Android Developer | **Technologies:** Kotlin, Android TV SDK, Bluetooth, Restful api  
 
 **Overview:**  
