@@ -9,7 +9,7 @@
 
 Experienced **Android Developer** with a strong background in building and maintaining native Android applications and mobile games.  
 Skilled in **Kotlin**, **Java**, **Jetpack Compose**, and modern Android frameworks.  
-Passionate about crafting high quality, maintainable, and user centered apps — from healthcare solutions to mobile games.
+Passionate about crafting high quality, maintainable, and user centered apps from healthcare solutions to mobile games.
 
 ---
 
@@ -49,7 +49,7 @@ It also features two key social components:
 **Overview:**  
 **F45 Training** is a global fitness brand offering functional training programs.  
 This Android TV application acts as a **virtual workout coach**, displaying exercise sessions and real time performance metrics inside F45 studios.  
-> 🛈 **Note:** This is an **enterprise only application** developed for F45 studios and internal use — it is **not available on the Google Play Store**.
+> 🛈 **Note:** This is an **enterprise only application** developed for F45 studios and internal use  it is **not available on the Google Play Store**.
 
 **Key Contributions:**  
 - Built **Android TV apps** that display real time workout sessions on large studio screens.  
