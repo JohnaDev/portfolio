@@ -9,7 +9,7 @@
 
 Experienced **Android Developer** with a strong background in building and maintaining native Android applications and mobile games.  
 Skilled in **Kotlin**, **Java**, **Jetpack Compose**, and modern Android frameworks.  
-Passionate about crafting high-quality, maintainable, and user-centered apps — from healthcare solutions to mobile games.
+Passionate about crafting high quality, maintainable, and user centered apps — from healthcare solutions to mobile games.
 
 ---
 
@@ -32,7 +32,7 @@ Passionate about crafting high-quality, maintainable, and user-centered apps —
 **Little Ones** is a baby sleep and parenting app that provides expert routines, sleep tracking, and personalized advice.  
 It also features two key social components:  
 - A **community feed** where parents and consultants can post updates, share experiences, and comment.  
-- A **private chat system** for one-on-one communication between parents and certified consultants.  
+- A **private chat system** for one on one communication between parents and certified consultants.  
 
 **Key Contributions:**  
 - Rebuilt major app components using **Jetpack Compose** and a modular architecture.  
@@ -48,15 +48,15 @@ It also features two key social components:
 
 **Overview:**  
 **F45 Training** is a global fitness brand offering functional training programs.  
-This Android TV application acts as a **virtual workout coach**, displaying exercise sessions and real-time performance metrics inside F45 studios.  
-> 🛈 **Note:** This is an **enterprise-only application** developed for F45 studios and internal use — it is **not available on the Google Play Store**.
+This Android TV application acts as a **virtual workout coach**, displaying exercise sessions and real time performance metrics inside F45 studios.  
+> 🛈 **Note:** This is an **enterprise only application** developed for F45 studios and internal use — it is **not available on the Google Play Store**.
 
 **Key Contributions:**  
-- Built **Android TV apps** that display real-time workout sessions on large studio screens.  
+- Built **Android TV apps** that display real time workout sessions on large studio screens.  
 - Integrated **Bluetooth heart rate monitors** for live tracking and performance visualization.  
-- Implemented **real-time workout synchronization** and interactive session displays.  
-- Optimized playback and rendering for **high-resolution video** and continuous operation.  
-- Ensured reliable multi-screen synchronization across studio environments.  
+- Implemented **real time workout synchronization** and interactive session displays.  
+- Optimized playback and rendering for **high resolution video** and continuous operation.  
+- Ensured reliable multi screen synchronization across studio environments.  
 
 ---
 
@@ -80,7 +80,7 @@ A healthcare management app used by home health professionals for scheduling, do
 A quoting and CRM tool for insurance agents to generate and manage client quotes efficiently.
 
 **Key Contributions:**  
-- Developed **MVVM-based** modules for scalable architecture.  
+- Developed **MVVM based** modules for scalable architecture.  
 - Integrated **RESTful APIs** for quote generation and management.  
 - Improved testing and deployment workflows with **CI/CD pipelines**.
 
@@ -90,7 +90,7 @@ A quoting and CRM tool for insurance agents to generate and manage client quotes
 **Role:** Lead Game Developer | **Technologies:** Lua, Corona SDK, Android SDK  
 
 **Overview:**  
-A tilt-based physics mobile game featuring fun mechanics and smooth motion controls.
+A tilt based physics mobile game featuring fun mechanics and smooth motion controls.
 
 **Key Contributions:**  
 - Designed and built the game using **Corona SDK (Solar2D)** and Lua scripting.  
@@ -101,7 +101,7 @@ A tilt-based physics mobile game featuring fun mechanics and smooth motion contr
 
 ## 🎓 Education
 **Bachelor of Science in Computer Science**  
-*Notre Dame University of Cotabato – 2012*
+*Notre Dame University of Cotabato 2012*
 
 ---
 
@@ -123,10 +123,10 @@ A tilt-based physics mobile game featuring fun mechanics and smooth motion contr
 - Built **Android TV** apps for F45 Training with Bluetooth device integration.  
 
 **Android Developer | Note-e-fied Inc.** (2014 – 2015)  
-- Built healthcare-focused Android apps that follows **HIPAA compliance**.  
+- Built healthcare focused Android apps that follows **HIPAA compliance**.  
 
 **Android Developer | Data Soft Logic** (2014)  
-- Developed secure, enterprise-grade Android apps with API integration.  
+- Developed secure, enterprise grade Android apps with API integration.  
 
 **Lead Mobile Game Developer | 8appstudio** (2012 – 2013)  
 - Led mobile game projects using **Corona SDK** and **Android SDK**.
