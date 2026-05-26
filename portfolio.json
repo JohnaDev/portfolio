@@ -89,6 +89,99 @@
       ]
     }
   ],
+  "featured_projects": [
+    {
+      "project_name": "Little Ones",
+      "role": "Senior Android Developer",
+      "technologies": [
+        "Kotlin",
+        "Java",
+        "XML",
+        "Jetpack Compose",
+        "Firebase",
+        "Retrofit"
+      ],
+      "overview": "Little Ones is a baby sleep and parenting app that provides expert routines, sleep tracking, and personalized advice. It includes a community feed for parents and consultants and a private chat system for direct communication.",
+      "key_contributions": [
+        "Rebuilt major app components using Jetpack Compose and modular architecture.",
+        "Developed a social feed supporting posts, comments, and media uploads with real time updates.",
+        "Implemented a private chat and messaging system using Firebase Firestore, Realtime Database, and Firebase Authentication.",
+        "Integrated Firebase Cloud Messaging for notifications and engagement.",
+        "Collaborated with product and UX teams to ensure a seamless user experience aligned with Material Design 3."
+      ]
+    },
+    {
+      "project_name": "F45 Training",
+      "role": "Android Developer",
+      "technologies": [
+        "Kotlin",
+        "Android TV SDK",
+        "Bluetooth",
+        "RESTful APIs"
+      ],
+      "overview": "F45 Training is a global fitness platform offering functional training programs. The Android TV application acts as a virtual workout coach displaying exercise sessions and real time performance metrics inside F45 studios.",
+      "notes": [
+        "Enterprise only application developed for F45 studios and internal use.",
+        "Not available on the Google Play Store."
+      ],
+      "key_contributions": [
+        "Built Android TV applications that display real time workout sessions on large studio screens.",
+        "Integrated Bluetooth heart rate monitors for live tracking and performance visualization.",
+        "Implemented real time workout synchronization and interactive session displays.",
+        "Optimized playback and rendering for high resolution video and continuous operation.",
+        "Ensured reliable multi screen synchronization across studio environments."
+      ]
+    },
+    {
+      "project_name": "Perfect Home Health",
+      "role": "Android Developer",
+      "technologies": [
+        "Java",
+        "XML",
+        "Retrofit",
+        "SQLite",
+        "JSON"
+      ],
+      "overview": "A healthcare management app used by home health professionals for scheduling, documentation, and compliance tracking.",
+      "key_contributions": [
+        "Built modules for patient data entry, scheduling, and synchronization.",
+        "Implemented secure RESTful API integrations.",
+        "Ensured HIPAA compliance and reliability for field operations."
+      ]
+    },
+    {
+      "project_name": "Eagle Quote",
+      "role": "Senior Android Developer",
+      "technologies": [
+        "Java",
+        "XML",
+        "Kotlin",
+        "MVVM",
+        "Retrofit"
+      ],
+      "overview": "A quoting and CRM tool for insurance agents to generate and manage client quotes efficiently.",
+      "key_contributions": [
+        "Developed MVVM based modules for scalable architecture.",
+        "Integrated RESTful APIs for quote generation and management.",
+        "Improved testing and deployment workflows with CI/CD pipelines."
+      ]
+    },
+    {
+      "project_name": "Tilt Toby",
+      "role": "Lead Game Developer",
+      "technologies": [
+        "Lua",
+        "Corona SDK",
+        "Android SDK"
+      ],
+      "overview": "A tilt based physics mobile game featuring fun mechanics and smooth motion controls.",
+      "key_contributions": [
+        "Designed and built the game using Corona SDK (Solar2D) and Lua scripting.",
+        "Implemented responsive tilt controls and optimized physics rendering.",
+        "Directed a small team and managed the full release cycle from development to QA."
+      ]
+    }
+  ],
   "technical_skills": {
     "languages": [
       "Kotlin",
@@ -121,8 +214,12 @@
       "CI/CD",
       "Material Design",
       "Performance Optimization",
+      "Testing",
       "JUnit",
-      "Espresso"
+      "Espresso",
+      "MVVM Architecture",
+      "Modular Architecture",
+      "Bluetooth Integration"
     ]
   },
   "education": {
