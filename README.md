@@ -16,9 +16,9 @@ Passionate about crafting high quality, maintainable, and user centered applicat
 ## 🛠️ Technical Skills
 
 - **Languages:** Kotlin, Java, Lua  
-- **Frameworks & Tools:** Android SDK, Jetpack Compose, Firebase, Retrofit, Glide, MVVM, Ktor  
+- **Frameworks & Tools:** Android SDK, Jetpack Compose, Firebase, Retrofit, Glide, MVVM, Ktor, SQLite  
 - **Project Management:** Jira, Trello, OpenProject  
-- **Build & Version Control:** Gradle, Git, GitHub, GitLab CI/CD, Fastlane  
+- **Build & Version Control:** Gradle, Git, GitHub, GitHub Actions, GitLab CI/CD, Fastlane  
 - **Core Concepts:** RESTful APIs, CI/CD, Material Design, Unit Testing (JUnit, Espresso), Bluetooth Integration  
 
 ---
@@ -32,15 +32,15 @@ Passionate about crafting high quality, maintainable, and user centered applicat
 **Overview:**  
 **Little Ones** is a baby sleep and parenting app that provides expert routines, sleep tracking, and personalized advice.  
 It also features two key social components:  
-- A **community feed** where parents and consultants can post updates, share experiences, and comment.  
-- A **private chat system** for one on one communication between parents and certified consultants.  
+- A community feed where parents and consultants can post updates, share experiences, and comment.  
+- A private chat system for one on one communication between parents and certified consultants.  
 
 **Key Contributions:**  
-- Rebuilt major app components using **Jetpack Compose** and a modular architecture.  
-- Developed a **social feed** supporting posts, comments, and media uploads with real time updates.  
-- Implemented a **private chat and messaging system** using **Firebase Firestore**, **Realtime Database**, and **Firebase Authentication**.  
-- Integrated **Firebase Cloud Messaging** for notifications and engagement.  
-- Collaborated with product and UX teams to ensure a seamless user experience aligned with **Material Design 3**.  
+- Rebuilt major app components using Jetpack Compose and modular architecture.  
+- Developed a social feed supporting posts, comments, and media uploads with real time updates.  
+- Implemented a private chat and messaging system using Firebase Firestore, Realtime Database, and Firebase Authentication.  
+- Integrated Firebase Cloud Messaging for notifications and engagement.  
+- Collaborated with product and UX teams to ensure a seamless user experience aligned with Material Design 3.  
 
 ---
 
@@ -99,7 +99,7 @@ A quoting and CRM tool for insurance agents to generate and manage client quotes
 A tilt based physics mobile game featuring fun mechanics and smooth motion controls.
 
 **Key Contributions:**  
-- Designed and built the game using **Corona SDK (Solar2D)** and Lua scripting.  
+- Designed and built the game using Corona SDK (Solar2D) and Lua scripting.  
 - Implemented responsive tilt controls and optimized physics rendering.  
 - Directed a small team and managed the full release cycle from development to QA.  
 
@@ -108,57 +108,64 @@ A tilt based physics mobile game featuring fun mechanics and smooth motion contr
 ## 💼 Professional Experience
 
 ### Android Developer | Feiwin  
-**December 2025 – May 2026**  
+**December 2025 – May 2026**
 
-- Built and maintained the frontend of web based gaming and chat applications using **Kotlin** and **Jetpack Compose**.  
-- Leveraged **Ktor** for networking and API communication.  
-- Implemented automated deployment pipelines using **GitLab CI/CD**.  
-- Utilized **Fastlane** for build and release automation.  
+- Built and maintained the frontend of web based gaming and chat applications using Kotlin and Jetpack Compose.  
+- Leveraged Ktor for networking and API communication.  
+- Implemented automated deployment pipelines using GitLab CI/CD.  
+- Utilized Fastlane for build and release automation.  
 - Collaborated closely with backend and design teams to deliver responsive user experiences.  
 
 ---
 
 ### Senior Android Developer | Dev Partners  
-**June 2018 – December 2025**  
+**June 2018 – December 2025**
 
-- Developed and maintained Android applications using **Kotlin**, **Java**, and **XML**.  
-- Modernized legacy applications with **Jetpack Compose**.  
-- Integrated **Firebase** services for analytics, authentication, and cloud based synchronization.  
+- Developed and maintained Android applications using Kotlin, Java, and XML.  
+- Modernized legacy applications with Jetpack Compose.  
+- Integrated Firebase for analytics, authentication, and cloud based synchronization.  
 - Refactored and optimized codebases for performance, scalability, and maintainability.  
-- Implemented CI/CD pipelines using **Git** and **GitHub Actions**.  
+- Implemented CI/CD pipelines using Git and GitHub Actions for efficient testing and deployment.  
 - Mentored team members and advocated for clean architecture and best coding practices.  
 
 ---
 
 ### Android Developer | Bywave  
-**2015 – 2018**  
+**May 2015 – June 2018**
 
-- Integrated Bluetooth heart rate monitor connectivity and REST APIs.  
-- Implemented Material Design user interfaces and SQLite data handling.  
-- Built Android TV applications for **F45 Training** with Bluetooth device integration.  
+- Developed Android applications primarily in Java using the Android SDK and XML based UI layouts.  
+- Implemented Bluetooth connectivity to pair with heart rate monitors for real time health tracking.  
+- Integrated RESTful APIs, SQLite, and JSON for data storage and communication.  
+- Applied Material Design standards for improved usability and visual consistency.  
+- Mentored junior developers, providing guidance on coding standards, version control, and debugging.  
+- Conducted app performance tuning and implemented unit testing to enhance reliability.  
 
 ---
 
-### Android Developer | Note-e-fied Inc.  
-**2014 – 2015**  
+### Android Developer | Note-e-fied Incorporated  
+**July 2014 – September 2015**
 
-- Built healthcare focused Android applications following HIPAA compliance standards.  
-- Developed secure mobile workflows for healthcare professionals.  
+- Developed Android applications for healthcare and hospice management, supporting home visits and patient documentation.  
+- Focused on data security, offline functionality, and synchronization for reliable field use.  
+- Collaborated with product and QA teams to ensure compliance with healthcare requirements and user experience goals.  
 
 ---
 
 ### Android Developer | Data Soft Logic  
-**2014**  
+**January 2014 – May 2014**
 
-- Developed secure enterprise grade Android applications with API integrations.  
+- Developed Android applications for enterprise and healthcare solutions, focusing on data integrity and security.  
+- Used Retrofit and Gson for API integration and JSON data handling.  
+- Assisted in updating applications to comply with newer Android SDK releases and design guidelines.  
 
 ---
 
-### Lead Mobile Game Developer | 8appstudio  
-**2012 – 2013**  
+### Lead Mobile App/Game Developer | 8appstudio  
+**June 2012 – November 2013**
 
-- Led mobile game projects using **Corona SDK** and **Android SDK**.  
-- Managed game development workflows from implementation to release.  
+- Led mobile app and game development projects using Android SDK and Corona SDK frameworks.  
+- Designed and developed engaging mobile games with smooth performance and intuitive gameplay.  
+- Directed a small development team, defining workflows, coding standards, and version control practices.  
 
 ---
 
