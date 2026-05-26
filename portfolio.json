@@ -135,8 +135,7 @@
         "Developed MVVM based modules for scalable architecture",
         "Integrated RESTful APIs for quote generation and management",
         "Improved testing and deployment workflows with CI/CD pipelines"
-      ],
-      is_delisted: true
+      ]
     },
     {
       "name": "Tilt Toby",
