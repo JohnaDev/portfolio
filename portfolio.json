@@ -1,0 +1,143 @@
+{
+  "personal_information": {
+    "full_name": "John Philip Agustino",
+    "address": {
+      "street": "478 Malvar 7-A Poblacion",
+      "city": "Davao City",
+      "province": "Davao del Sur",
+      "country": "Philippines",
+      "postal_code": "8000"
+    },
+    "email": "johnphilipagustino@gmail.com",
+    "phone": "+63 9399353004"
+  },
+  "professional_summary": "Experienced Android Developer with extensive experience designing and building native Android applications and mobile games. Skilled in Kotlin, Java, XML, and modern Android frameworks such as Jetpack Compose and Android Architecture Components. Experienced in healthcare application development and Bluetooth-based device connectivity. Adept at working in Agile environments using project management tools to deliver high-quality, maintainable, and user-centered mobile applications.",
+  "professional_experience": [
+    {
+      "position": "Android Developer",
+      "company": "Feiwin",
+      "start_date": "2025-12",
+      "end_date": "2026-05",
+      "responsibilities": [
+        "Built and maintained the frontend of web based gaming and chat applications using Kotlin and Jetpack Compose.",
+        "Leveraged Ktor for networking.",
+        "Implemented GitLab CI/CD for automated deployment pipelines.",
+        "Used Fastlane for build and release automation."
+      ]
+    },
+    {
+      "position": "Senior Android Developer",
+      "company": "Dev Partners",
+      "start_date": "2018-06",
+      "end_date": "2025-12",
+      "responsibilities": [
+        "Developed and maintained Android applications using Kotlin, Java, and XML.",
+        "Modernized legacy codebases with Jetpack Compose.",
+        "Integrated Firebase for analytics, authentication, and cloud-based synchronization.",
+        "Refactored and optimized codebases for performance, scalability, and maintainability.",
+        "Implemented CI/CD pipelines with Git and GitHub Actions.",
+        "Mentored team members and advocated for clean architecture and coding best practices."
+      ]
+    },
+    {
+      "position": "Android Developer",
+      "company": "Bywave",
+      "start_date": "2015-05",
+      "end_date": "2018-06",
+      "responsibilities": [
+        "Developed Android applications primarily in Java using Android SDK and XML layouts.",
+        "Implemented Bluetooth connectivity for heart rate monitor integration.",
+        "Integrated RESTful APIs, SQLite, and JSON for communication and storage.",
+        "Applied Material Design standards for improved usability.",
+        "Mentored junior developers on coding standards and debugging.",
+        "Conducted app performance tuning and implemented unit testing."
+      ]
+    },
+    {
+      "position": "Android Developer",
+      "company": "Note-e-fied Incorporated",
+      "start_date": "2014-07",
+      "end_date": "2015-09",
+      "responsibilities": [
+        "Developed Android applications for healthcare and hospice management.",
+        "Supported home visits and patient documentation features.",
+        "Focused on data security, offline functionality, and synchronization.",
+        "Collaborated with product and QA teams to meet healthcare compliance requirements."
+      ]
+    },
+    {
+      "position": "Android Developer",
+      "company": "Data Soft Logic",
+      "start_date": "2014-01",
+      "end_date": "2014-05",
+      "responsibilities": [
+        "Developed Android applications for enterprise and healthcare solutions.",
+        "Focused on data integrity and security.",
+        "Used Retrofit and Gson for API integration and JSON handling.",
+        "Updated applications to comply with newer Android SDK releases."
+      ]
+    },
+    {
+      "position": "Lead Mobile App/Game Developer",
+      "company": "8appstudio",
+      "start_date": "2012-06",
+      "end_date": "2013-11",
+      "responsibilities": [
+        "Led mobile app and game development projects using Android SDK and Corona SDK.",
+        "Designed and developed mobile games with smooth performance and intuitive gameplay.",
+        "Directed a small development team and defined workflows and coding standards."
+      ]
+    }
+  ],
+  "technical_skills": {
+    "languages": [
+      "Kotlin",
+      "Java",
+      "Lua"
+    ],
+    "frameworks_and_tools": [
+      "Android SDK",
+      "Jetpack Compose",
+      "Android Studio",
+      "Firebase",
+      "Retrofit",
+      "Room",
+      "Glide",
+      "Dagger",
+      "Hilt"
+    ],
+    "project_management_tools": [
+      "Jira",
+      "Trello",
+      "OpenProject"
+    ],
+    "build_and_version_control": [
+      "Gradle",
+      "Git",
+      "GitHub"
+    ],
+    "concepts_and_practices": [
+      "RESTful APIs",
+      "CI/CD",
+      "Material Design",
+      "Performance Optimization",
+      "JUnit",
+      "Espresso"
+    ]
+  },
+  "education": {
+    "degree": "Bachelor of Science in Computer Science",
+    "institution": "Notre Dame University of Cotabato",
+    "year_graduated": 2012
+  },
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "Fluent"
+    },
+    {
+      "language": "Filipino",
+      "proficiency": "Fluent"
+    }
+  ]
+}
