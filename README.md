@@ -1,7 +1,7 @@
 # John Philip Agustino
 ## Senior Android Developer  
 📍 Davao City, Philippines  
-📧 [johnphilipagustino@gmail.com](mailto:johnphilipagustino@gmail.com) | 📞 +63 9399353004  
+📧 [johnphilipagustino@gmail.com](mailto:johnphilipagustino@gmail.com) | 📞 +63 949 701 3510  
 
 ---
 
